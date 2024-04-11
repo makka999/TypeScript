@@ -1,0 +1,21 @@
+{
+  "name": "coderdojo",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "makka999",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@types/readline-sync": "^1.4.8",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "random-number-range": "^1.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
